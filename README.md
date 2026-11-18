@@ -2,7 +2,10 @@
 
 An interactive two-page Power BI dashboard built from a survey of 630 data professionals.
 
+### Page 1: Overview
 ![Page 1 - Overview](dashboard_page1.png)
+
+### Page 2: Career and Satisfaction
 ![Page 2 - Career and Satisfaction](dashboard_page2.png)
 
 ## About this project
